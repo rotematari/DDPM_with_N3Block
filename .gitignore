@@ -1,0 +1,8 @@
+/gen
+/for_FID
+/data_dir
+checkpoints_dir
+src_denoising/models/pyinn
+*.png
+*.pyc
+*.pt
